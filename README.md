@@ -72,7 +72,5 @@
 
 ### 🔧 Projetos em Destaque:
 
+* 📕 **[Macchi](https://github.com/soloverdrive/macchi):** A programmable Discord bot with Lua scripting.
 * 🌿 **[PlantAuto-PEEX](https://github.com/EdcleyVitor/PlantAuto-PEEX):** Sistema de irrigação inteligente com ESP32.
-* 🤖 Bots para **Discord com DSharpPlus e discord.py**
-* 🎮 Sistemas e scripts para **Roblox (LuaU)**
-* ⚙️ Ferramentas e utilitários focados em performance
